@@ -1,5 +1,5 @@
-Git is a distributed version control system.
+git is a version control system
 Git is free software.
 
 
-sdfsdf
+大幅度反对法
